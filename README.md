@@ -1,11 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img width="700" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sapphira+Le+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img width="700" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sapphira+Le+%E2%9C%A8" alt="Typing SVG" />
   <br />
-  <a href="#">
-    <img width="150" height="200" alt="avt" src="https://github.com/user-attachments/assets/8b94f455-5b50-45af-a307-71c783c93f07" style="border:0; background:transparent; box-shadow:none; outline:none;" />
-  </a>
+  <img width="150" height="200" alt="avt" src="./avt1.png" style="border:0; background:transparent; box-shadow:none; outline:none;" />
+
   <h3>Full-stack Developer</h3>
 </div>
 
@@ -13,9 +10,7 @@
 
 ### 💫 About Me
 
-<a href="#">
-  <img align="right" width="200" height="200" alt="typing" src="https://github.com/user-attachments/assets/c3bf238c-203b-4194-826c-f4622590519b" style="border:0; background:transparent; box-shadow:none; outline:none;" />
-</a>
+<img align="right" width="150" height="150" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" />
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning skill sets for all roles in a project
