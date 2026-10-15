@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-<img align="right" width="150" height="150" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" />
+<img align="right" width="120" height="120" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" />
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning skill sets for all roles in a project
