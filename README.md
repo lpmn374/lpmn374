@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapphira Le</h1>
 <h3 align="center">Full-stack Developer</h3>
-<img align="right" width="374" height="374" alt="typing" src="https://github.com/user-attachments/assets/82507ee6-2cae-4484-bc38-ad61528f4da4" />
+<img align="right" width="200" height="200" alt="typing" src="https://github.com/user-attachments/assets/82507ee6-2cae-4484-bc38-ad61528f4da4" style="border: none; background: transparent; box-shadow: none;"/>
 
 - 🔭 I’m currently working on my personal projects
 
