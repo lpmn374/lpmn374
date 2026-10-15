@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&reversal=true&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descAlign=50&descAlignY=60" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4FACFE,100:00F2FE&section=header&reversal=true&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descAlign=50&descAlignY=60" width="100%" alt="Header Banner" />
 <div align="center">
   <img width="700" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sapphira+Le+%E2%9C%A8" alt="Typing SVG" />
   <br />
