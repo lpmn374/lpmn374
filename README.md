@@ -11,9 +11,9 @@
 
 ### 💫 About Me
 
-<img align="right" width="120" height="120" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" />
+<div align="center"><img align="center" width="120" height="120" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" /></div>
 
-<ul align="left">
+<ul>
 <li> 🔭 I’m currently working on my personal projects </li>
 <li> 🌱 I’m currently learning skill sets for all roles in a project </li>
 <li> 💬 Ask me about <b>cartoons, music, gardening and DSA</b> 🫶 </li>
@@ -76,10 +76,19 @@
 ### 📊 GitHub Stats
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&text_color=61dafb&title_color=266CB8&icon_color=FAC863&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpmn374&theme=react&text_color=61dafb&title_color=266CB8&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&text_color=2DB6D6&title_color=266CB8&icon_color=FAC863&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpmn374&theme=react&text_color=2DB6D6&title_color=266CB8&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpmn374&theme=oceanic-next&hide_border=true&background=00000000" alt="lpmn374" />
   </p>
+</div>
+
+<hr />
+
+### 🤣 Random Meme For Today
+<div align="center">
+  <!--START_SECTION:meme-->
+  <img src="https://i.redd.it/placeholder.png" alt="Dev Meme" width="500" style="border-radius: 8px;" />
+  <!--END_SECTION:meme-->
 </div>
