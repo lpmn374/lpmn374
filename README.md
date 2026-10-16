@@ -16,8 +16,8 @@
 <ul align="left">
 <li> 🔭 I’m currently working on my personal projects </li>
 <li> 🌱 I’m currently learning skill sets for all roles in a project </li>
-<li> 💬 Ask me about **cartoons, music, gardening and DSA** 🫶 </li>
-<li> ⚡ **Fun fact:** I role-play every role in my ongoing solo project (Product Owner, Scrum Master, Developer, and QA all in one!) </li>
+<li> 💬 Ask me about <b>cartoons, music, gardening and DSA</b> 🫶 </li>
+<li> ⚡ <b>Fun fact:</b> I role-play every role in my ongoing solo project (Product Owner, Scrum Master, Developer, and QA all in one!) </li>
 </ul>
 
 <hr />
