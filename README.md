@@ -12,7 +12,7 @@
 ### 💫 About Me
 
 <div align="center"><img align="center" width="120" height="120" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" /></div>
-
+<br>
 <ul>
 <li> 🔭 I’m currently working on my personal projects </li>
 <li> 🌱 I’m currently learning skill sets for all roles in a project </li>
@@ -89,4 +89,6 @@
 ### 🤣 Random Meme For Today
 <div align="center">
   <img src="./meme.png" alt="Dev Meme" width="500" style="border-radius: 8px;" />
+  <br>
+  <sub><em>(Meme sourced from Reddit)</em></sub>
 </div>
