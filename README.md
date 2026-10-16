@@ -86,9 +86,7 @@
 
 <hr />
 
-### 🤣 Random Meme For Today
+### 🤣 Random meme for today
 <div align="center">
-  <!--START_SECTION:meme-->
-  <img src="https://i.redd.it/placeholder.png" alt="Dev Meme" width="500" style="border-radius: 8px;" />
-  <!--END_SECTION:meme-->
+  <img src="https://readme-joke-api.vercel.app/api?theme=dark" alt="Dev Meme" style="border-radius: 8px;" />
 </div>
