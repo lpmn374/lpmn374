@@ -1,0 +1,32 @@
+name: Update Random Meme
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Chạy 1 lần mỗi 24 giờ (mỗi ngày một lần)
+  workflow_dispatch:      # Cho phép bấm nút chạy thủ công (Run workflow) trên GitHub bất cứ lúc nào
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Cấp quyền cho phép GitHub Action ghi code/commit lên repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit and push changes if README updated
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 Auto-update daily random dev meme"
+          branch: main
