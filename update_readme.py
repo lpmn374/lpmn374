@@ -1,7 +1,7 @@
 import requests
 
 def main():
-    api_url = "https://meme-api.com/gimme"
+    api_url = "api_url = "https://meme-api.com/gimme/ProgrammerHumor"
     try:
         # Gọi API lấy JSON meme từ Reddit
         response = requests.get(api_url, timeout=10)
