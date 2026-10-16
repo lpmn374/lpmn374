@@ -92,3 +92,5 @@
   <br>
   <sub><em>(Meme sourced from Reddit)</em></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0C6CBA,100:59C3D9&section=footer&reversal=true&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descAlign=50&descAlignY=60" width="100%" alt="Footer Banner" />
