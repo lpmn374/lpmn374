@@ -2,14 +2,14 @@ name: Update Random Meme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy 1 lần mỗi ngày
-  workflow_dispatch:      # Nút bấm chạy thủ công
+    - cron: "0 0 * * *" # Chạy 1 lần mỗi 24 giờ (mỗi ngày một lần)
+  workflow_dispatch:      # Cho phép bấm nút chạy thủ công trên GitHub
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Cấp quyền ghi commit cho GitHub Actions
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,3 +30,4 @@ jobs:
         with:
           commit_message: "🤖 Auto-update daily random dev meme"
           branch: main
+          pull_strategy: "REBASE" 
