@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0C6CBA,100:59C3D9&section=header&reversal=true&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descAlign=50&descAlignY=60" width="100%" alt="Header Banner" />
 <div align="center">
-  <img width="700" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sapphira+Le+%E2%9C%A8" alt="Typing SVG" />
+  <img width="800" src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sapphira+Le+%E2%9C%A8" alt="Typing SVG" />
   <br />
   <img width="150" height="200" alt="avt" src="./avt1.png" style="border:0; background:transparent; box-shadow:none; outline:none;" />
 
@@ -13,10 +13,12 @@
 
 <img align="right" width="120" height="120" alt="typing" src="./typing3.gif" style="border:0; background:transparent; box-shadow:none; outline:none;" />
 
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning skill sets for all roles in a project
-- 💬 Ask me about **cartoons, music, gardening and DSA** 🫶
-- ⚡ **Fun fact:** I role-play every role in my ongoing solo project (Product Owner, Scrum Master, Developer, and QA all in one!)
+<ul align="left">
+<li> 🔭 I’m currently working on my personal projects </li>
+<li> 🌱 I’m currently learning skill sets for all roles in a project </li>
+<li> 💬 Ask me about **cartoons, music, gardening and DSA** 🫶 </li>
+<li> ⚡ **Fun fact:** I role-play every role in my ongoing solo project (Product Owner, Scrum Master, Developer, and QA all in one!) </li>
+</ul>
 
 <hr />
 
@@ -74,8 +76,8 @@
 ### 📊 GitHub Stats
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpmn374&theme=react&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&text_color=61dafb&title_color=266CB8&icon_color=FAC863&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpmn374&theme=react&text_color=61dafb&title_color=266CB8&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpmn374&theme=oceanic-next&hide_border=true&background=00000000" alt="lpmn374" />
