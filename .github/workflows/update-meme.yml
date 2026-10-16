@@ -2,17 +2,19 @@ name: Update Random Meme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy 1 lần mỗi 24 giờ (mỗi ngày một lần)
-  workflow_dispatch:      # Cho phép bấm nút chạy thủ công trên GitHub
+    - cron: "0 0 * * *" # Chạy 1 lần mỗi 24 giờ
+  workflow_dispatch:      # Nút bấm chạy thủ công
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Cấp quyền ghi commit cho GitHub Actions
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Tải đầy đủ lịch sử commit để tránh xung đột git
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,4 +32,3 @@ jobs:
         with:
           commit_message: "🤖 Auto-update daily random dev meme"
           branch: main
-          pull_strategy: "REBASE" 
