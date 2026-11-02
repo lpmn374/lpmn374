@@ -76,8 +76,8 @@
 ### 📊 GitHub Stats
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&text_color=2DB6D6&title_color=266CB8&icon_color=FAC863&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpmn374&theme=react&text_color=2DB6D6&title_color=266CB8&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=lpmn374&theme=react&rank_icon=github&text_color=2DB6D6&title_color=266CB8&icon_color=FAC863&show_icons=true&bg_color=00000000&hide_border=true&locale=en" alt="lpmn374" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lpmn374&theme=react&text_color=2DB6D6&title_color=266CB8&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="lpmn374" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpmn374&theme=oceanic-next&hide_border=true&background=00000000" alt="lpmn374" />
